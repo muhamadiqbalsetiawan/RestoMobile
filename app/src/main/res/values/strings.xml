@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Resto</string>
+    <string name="str">Store</string>
+    <string name="your_name">Your Name</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Order Menu</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="peprojdl">Pepro Pedas</string>
+    <string name="peprodesc">Cocok bagi anda yang ingin merasakan teburan keju dan daging yang lezat, cocok untuk anda yang suka pedas.</string>
+    <string name="spagetijdl">Spagety Majalaya</string>
+    <string name="spagetidesc">Cocok untuk anda yang ingin merasakan bagaimana rasa kolaborasi makanan lokal dan internasional, hanya untuk lambung-lambung tertentu.</string>
+    <string name="pettyjdl">Petty Jatinunggal</string>
+    <string name="pettydesc">Cocok untuk mahasiswa jarak jauh, dengan porsi yang tahan sampai makan malam.</string>
+    <string name="beefjdl">Daging Kentang Bandung</string>
+    <string name="beefdesc">Daging pagang dengan kentang goreng, yang dipanggang dengan penuh rasa cinta, dengan satu gigitan saja, anda akan merasa seperti menjadi Iron Man.</string>
+
+    <string name="pepro_order_message">Your ordered a Pepro</string>
+    <string name="spageti_order_message">Your ordered a Spagety</string>
+    <string name="petty_order_message">Your ordered a Petty</string>
+    <string name="beef_order_message">Your ordered a Beef</string>
+    
+    <string name="harga">Rp.36.000,-</string>
+    <string name="decspesanan">Peperoni Pizza adalah makanan yang memiliki cita rasa yang sangat lezat, anda bisa merasakan semua rasa terkumpul didalam mulut anda. dengan satu gigitan saja anda bisa langsung mencintainya tanpa harus PDKT. eeaaa</string>
+    <string name="order">Order Now</string>
+    <string name="back">Back</string>
+
+    <string name="dtljdl">Order Detail</string>
+    <string name="nama">Iqbal</string>
+    <string name="alamat">Store: Majalaya</string>
+    <string name="menu_order">Pepro pedas telah dipesan</string>
+
+    <string name="pengiriman">Pengiriman</string>
+    <string name="ambil">Ambil sendiri</string>
+    <string name="ambil1">Fast Deliveri (+- 30 menit sampai)</string>
+    <string name="btndone">Done</string>
+</resources>
